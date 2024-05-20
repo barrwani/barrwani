@@ -1,5 +1,5 @@
 # Asaad Al Barwani
-Gameplay Programmer & CS @ NYU.
+Gameplay Programmer. CS @ NYU.
 
 Currently listening:
 <div align="center">
